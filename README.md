@@ -101,5 +101,5 @@ Churn rates and customer volumes vary by country, such as language-specific onbo
 
 ## Technical details
 - **Database:** PostgreSQL
-- **Analytical Tools:** PostgreSQL
+- **Analytical Tools:** PostgreSQL, DBeaver
 - **Visualization:** Excel
