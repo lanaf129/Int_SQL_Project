@@ -52,13 +52,18 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 # Visualization
 
 ![Active vs Churned Customers by Cohort](/images/3_active_churned.jpg)
+![Active Customers by Country and Cohort](/images/3_retention_rate.jpg)
+
+
 
 # **Key findings**
 
 - Extremely high churn across all years:
 90% percent compared to 20% industry standard
 
-- No improvement in retention over time: percentage of active customers over time stayed flat (8-10%)
+- No significan improvement in retention over time: percentage of active customers over time stayed flat (8-10%)
+
+- Germany has the highest retention rate across all cohorts, followed by Canada and Netherlands.
 
 # **Business Insights**
 
@@ -67,6 +72,10 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 - Potential product improvements
 
 - Increase delivery speed
+
+- Investigate what lead to higher retention rate in Germany, Canada, and Netherlands. If applicable, same strategies should be followed in other countries. 
+
+- Assess what contributed to lower retention rates in Australia, Italy, and the UK.
 
 - Test retention tactics:
 lifecycle emails or onboarding automation,
@@ -88,8 +97,7 @@ improved customer support touchpoints
 
 - Use lookalike modeling to find and acquire customers similar to your high-value base.
 
-- Optimize country-specific strategies
-Churn rates and customer volumes vary by country, such as language-specific onboarding and country-specific promotions or incentives.
+- Optimize country-specific strategies. Churn rates and customer volumes vary by country, such as language-specific onboarding and country-specific promotions or incentives.
 
 - Investigate what’s working (support channels, user behavior patterns) for countries with better retention.
 
