@@ -12,7 +12,7 @@ Analysis of customer behavior, retention, and lifetime value for Contoso, an e-c
 
 ### 1. Customer Segmentation
 
-Query: [1_Customer_Segmentation.sql](/Scripts/1_Customer_Segmentation.sql)
+Query: [1_Customer_Segmentation.sql](1_Customer_Segmentation.sql/)
 
 # Visualization
 ![Customer_ltv_by_segment.jpg](/images/1_cust_ltv_by_segment.jpg)
@@ -33,7 +33,7 @@ Query: [1_Customer_Segmentation.sql](/Scripts/1_Customer_Segmentation.sql)
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-Query: [2_cohort_analysis.sql](/Scripts/2_cohort_analysis.sql)
+Query: [2_cohort_analysis.sql](2_cohort_analysis.sql)
 
 # Visualization
 ![Average Cohort Revenue](/images/2_cohort_avg_rev.jpg)
@@ -48,7 +48,8 @@ Value extracted per customer has decrease over time and needs further investigat
 
 ### 3. Retention Analysis
 
-Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
+Query: [3_retention_analysis.sql](3_retention_analysis.sql)
+[3_retention_rate_by_country.sql](3_Retention_rate_by_country.sql)
 
 # Visualization
 
