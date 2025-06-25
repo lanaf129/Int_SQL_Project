@@ -61,7 +61,7 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 - Extremely high churn across all years:
 90% percent compared to 20% industry standard
 
-- No significan improvement in retention over time: percentage of active customers over time stayed flat (8-10%)
+- No significant improvement in retention over time: percentage of active customers over time stayed flat (8-10%)
 
 - Germany has the highest retention rate across all cohorts, followed by Canada and Netherlands.
 
