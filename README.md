@@ -18,6 +18,7 @@ Query: [1_Customer_Segmentation.sql](/Scripts/1_Customer_Segmentation.sql)
 ![Customer_ltv_by_segment.jpg](/images/1_cust_ltv_by_segment.jpg)
 
 # **Key findings**
+- Low-value customers are defined as the lower 25% of all customers, Medium-value are between 25% and 75%, High-value customers are the upper 25%.
 - High-value customers represent 65.6% of total LTV across segments, while Low-value customers represent 2.1% of total LTV. 
 
 # **Business Insights**
